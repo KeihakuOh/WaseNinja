@@ -1,5 +1,5 @@
 # unilab2023Net4.8
-.Net4.8です
+.Net Framework 4.8です
 
 # マップ配置物　番号振り分け
 
